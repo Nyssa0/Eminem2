@@ -17,6 +17,8 @@
  
 ## 🖥 Introduction 🖥
 
+This website was created for an expression class. We had to create a website about an artist. We wish to bring to your attention that we couldn't add some vidéos in the GitHub because of their sizes.
+
 ## 🛠 Languages 🛠
 
 [<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
