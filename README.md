@@ -16,7 +16,7 @@
 6. [Bonus](#-bonus-)
 
 ## 🖥 Introduction 🖥
-This website was created for an expression class. We had to create a website about an artist. We wish to bring to your attention that we couldn't add some vidéos in the GitHub because of their sizes.
+This website was created for an expression class. We had to create a website about an artist and we chose Eminem because he is talented yet controversial so it was interesting to show his different sides.
 
 ### 🗓 Date 🗓
 ```
